@@ -123,8 +123,12 @@ export default defineConfig({
     docFooter: {
       prev: '上一篇',
       next: '下一篇',
-    }
+    },
+
+    lastUpdatedText: '最后更新时间',
+    
   },
+  lastUpdated: true,
 
   locales: {
     root: {
