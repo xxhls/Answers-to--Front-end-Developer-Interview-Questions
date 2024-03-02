@@ -7,7 +7,7 @@
 
 ## Instruction
 
-In this project, the questions raised in the [Front-end-Developer-Interview-Questions] (https://github.com/h5bp/Front-end-Developer-Interview-Questions) are answered in detail in a combination of theory and practice.
+In this project, the questions raised in the [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) are answered in detail in a combination of theory and practice.
 
 ## Reference
 
