@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "cz-emoji": "1.3.2-canary.2",
     "eslint": "8.0.0",
     "eslint-config-wkts": "^0.2.4",
     "eslint-config-wkvue": "^0.2.4",
@@ -19,11 +22,17 @@
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
     "local-check": "wkstd local-check",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "commit": "cz"
   },
   "engines": {
     "node": ">=20",
     "pnpm": ">=8"
   },
-  "prettier": "prettier-config-wk"
+  "prettier": "prettier-config-wk",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-emoji"
+    }
+  }
 }
