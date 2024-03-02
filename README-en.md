@@ -7,7 +7,7 @@
 
 ## Instruction
 
-本项目采用理论结合实践的方式对[前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)里提出的问题依次进行了详细的解答。
+In this project, the questions raised in the [Front-end-Developer-Interview-Questions] (https://github.com/h5bp/Front-end-Developer-Interview-Questions) are answered in detail in a combination of theory and practice.
 
 ## Reference
 
