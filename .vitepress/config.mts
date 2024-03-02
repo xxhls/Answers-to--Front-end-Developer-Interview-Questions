@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "由xxhls给出的参考答案",
   description: "前端工作面试问题参考答案",
+  base: '/Answers-to--Front-end-Developer-Interview-Questions/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 
