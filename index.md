@@ -20,4 +20,4 @@
 
 ## 许可证
 
-本项目根据[MIT 许可证](./LICENSE)的条款进行许可。
+本项目根据[MIT 许可证](https://github.com/xxhls/Answers-to--Front-end-Developer-Interview-Questions/blob/main/LICENSE)的条款进行许可。

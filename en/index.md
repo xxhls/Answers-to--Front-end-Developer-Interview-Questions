@@ -18,4 +18,4 @@ The resources come from the internet, and the primary sources have all been indi
 
 ## LICENSE
 
-The Project is licensed under the terms of the [MIT LICENSE](./LICENSE).
+The Project is licensed under the terms of the [MIT LICENSE](https://github.com/xxhls/Answers-to--Front-end-Developer-Interview-Questions/blob/main/LICENSE).
