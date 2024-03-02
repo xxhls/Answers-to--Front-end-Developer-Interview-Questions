@@ -1,15 +1,15 @@
-# 前端工作面试问题参考答案
+# Answers-to-Front-end-Developer-Interview-Questions
 
 [简体中文](./README.md)
 [English](./README-en.md)
 
 ![](https://img.shields.io/badge/✏️-xxhls-blue)
 
-## 项目简介
+## Instruction
 
 本项目采用理论结合实践的方式对[前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions)里提出的问题依次进行了详细的解答。
 
-## 参考资料
+## Reference
 
 [CSDN](https://blog.csdn.net/)    
 [稀土掘金](https://juejin.cn/)  
@@ -17,10 +17,10 @@
 [菜鸟教程](https://www.runoob.com/)  
 [Stack Overflow](https://stackoverflow.co/)  
 
-## 版权声明
+## Copyright
 
-资源来源于互联网，一级出处均已标明。若有遗漏请联系本人邮箱`heyq020814@qq.com`。
+The resources come from the internet, and the primary sources have all been indicated. If there are any omissions, please contact me at my email `heyq020814@qq.com`.
 
-## 许可证
+## LICENSE
 
-本项目根据[MIT 许可证](./LICENSE)的条款进行许可。
+The Project is licensed under the terms of the [MIT LICENSE](./LICENSE).
